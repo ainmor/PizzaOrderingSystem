@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pos.Services", "Pos-Services\Pos.Services.csproj", "{FADA9C66-14FC-4894-86E2-7FF6826F8E95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pos.Data", "Pos.Data\Pos.Data.csproj", "{89BCA576-9C5C-4FAA-AE80-692FEC286C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pos.Entities", "Pos.Entities\Pos.Entities.csproj", "{3B011B6A-DC6C-4961-ACFC-824DA35D9B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pos.SelfHost", "Pos.SelfHost\Pos.SelfHost.csproj", "{24629DA6-5EF8-4076-A8F6-BA6088AD9102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pos.IISHost", "Pos.IISHost\Pos.IISHost.csproj", "{73DB96EE-1665-419D-A625-045663367D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pos.Client", "Pos.Client\Pos.Client.csproj", "{689AEAA4-33D2-4C3D-9DAA-80FC52F8A4A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADA9C66-14FC-4894-86E2-7FF6826F8E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADA9C66-14FC-4894-86E2-7FF6826F8E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADA9C66-14FC-4894-86E2-7FF6826F8E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADA9C66-14FC-4894-86E2-7FF6826F8E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BCA576-9C5C-4FAA-AE80-692FEC286C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BCA576-9C5C-4FAA-AE80-692FEC286C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BCA576-9C5C-4FAA-AE80-692FEC286C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BCA576-9C5C-4FAA-AE80-692FEC286C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B011B6A-DC6C-4961-ACFC-824DA35D9B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B011B6A-DC6C-4961-ACFC-824DA35D9B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B011B6A-DC6C-4961-ACFC-824DA35D9B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B011B6A-DC6C-4961-ACFC-824DA35D9B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24629DA6-5EF8-4076-A8F6-BA6088AD9102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24629DA6-5EF8-4076-A8F6-BA6088AD9102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24629DA6-5EF8-4076-A8F6-BA6088AD9102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24629DA6-5EF8-4076-A8F6-BA6088AD9102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DB96EE-1665-419D-A625-045663367D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DB96EE-1665-419D-A625-045663367D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DB96EE-1665-419D-A625-045663367D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DB96EE-1665-419D-A625-045663367D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689AEAA4-33D2-4C3D-9DAA-80FC52F8A4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689AEAA4-33D2-4C3D-9DAA-80FC52F8A4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689AEAA4-33D2-4C3D-9DAA-80FC52F8A4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689AEAA4-33D2-4C3D-9DAA-80FC52F8A4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+		SolutionGuid = {011DDF4B-2A38-49DF-AD44-462029888116}
+	EndGlobalSection
+EndGlobal

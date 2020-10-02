@@ -1,0 +1,5 @@
+D:\programming\wcf\PosApp\Pos.Entities\bin\Debug\Pos.Entities.dll
+D:\programming\wcf\PosApp\Pos.Entities\bin\Debug\Pos.Entities.pdb
+D:\programming\wcf\PosApp\Pos.Entities\obj\Debug\Pos.Entities.csproj.CoreCompileInputs.cache
+D:\programming\wcf\PosApp\Pos.Entities\obj\Debug\Pos.Entities.dll
+D:\programming\wcf\PosApp\Pos.Entities\obj\Debug\Pos.Entities.pdb

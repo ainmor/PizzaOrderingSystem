@@ -1,0 +1,17 @@
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\Pos.Services.dll.config
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\Pos.Services.dll
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\Pos.Services.pdb
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\EntityFramework.dll
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\Pos.Data.dll
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\Pos.Entities.dll
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\Pos.Data.pdb
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\Pos.Data.dll.config
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\Pos.Entities.pdb
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\EntityFramework.xml
+D:\programming\wcf\PosApp\Pos-Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\programming\wcf\PosApp\Pos-Services\obj\Debug\Pos.Services.csprojAssemblyReference.cache
+D:\programming\wcf\PosApp\Pos-Services\obj\Debug\Pos.Services.csproj.CoreCompileInputs.cache
+D:\programming\wcf\PosApp\Pos-Services\obj\Debug\Pos.Services.csproj.CopyComplete
+D:\programming\wcf\PosApp\Pos-Services\obj\Debug\Pos.Services.dll
+D:\programming\wcf\PosApp\Pos-Services\obj\Debug\Pos.Services.pdb
